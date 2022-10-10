@@ -21,4 +21,7 @@ console.log(3125 ** 0.20);//Fifth Root
 let a = 10;
 let b = 20;
 console.log(((a + b) > (b - a) <= (b / a) > (a % b)));
+<<<<<<< HEAD:problem1.js
 >>>>>>> cbd601817b991667cdb694356b6f9a1b61acb365
+=======
+>>>>>>> d4f666c7dcaa1519dbf3cfb72e3277a2afc91ee4:problem.js
